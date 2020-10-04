@@ -1,0 +1,1 @@
+# NGINX_Django_Vue_config_template
